@@ -1,13 +1,11 @@
 # 🌦️ Weather App (Flutter)
 
 A sleek and modern weather application built with Flutter, designed as a portfolio project to showcase clean architecture, responsive UI, and effective state management using Provider. The app fetches real-time weather data and forecasts using the OpenWeatherMap API, offering a smooth and informative user experience.
-<br>
-<br>
-<br>
+<be>
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 * 🌍 Location Search – Easily find weather updates for any city worldwide.
 * ☀️ Current Weather – Real-time weather conditions including temperature, humidity, and more.
@@ -22,10 +20,8 @@ A sleek and modern weather application built with Flutter, designed as a portfol
 
 * 🎨 UI Inspired by Dribbble & Behance – Clean and modern design layout (UI to be finalized).
 <br>
-<br>
-<br>
----
 
+---
 
 ## 🚀 Tech Stack
 
