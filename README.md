@@ -10,7 +10,7 @@ A sleek and modern weather application built with Flutter, designed as a portfol
 * 🌍 Location Search – Easily find weather updates for any city worldwide.
 * ☀️ Current Weather – Real-time weather conditions including temperature, humidity, and more.
 
-* 📅 7–10 Day Forecast – Stay ahead with multi-day weather predictions.
+* 📅 5 Day Forecast – Stay ahead with multi-day weather predictions.
 
 * 🌙 Dark Mode Support – Automatically adapts to system theme for visual comfort.
 
