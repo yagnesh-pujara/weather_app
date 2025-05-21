@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:weather_app/screens/home/five_day_forecast.dart';
 import 'package:weather_app/screens/home/models/weather_model.dart';
 import 'package:weather_app/services/weather_service.dart';
+import 'package:weather_app/utils/secrets_settings.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -13,7 +14,7 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   WeatherModel? _weather;
-  final _weatherService = WeatherService("API_KEY");
+  final _weatherService = WeatherService(SecretSettings.WEATHER_API_KEY);
   late Map<int, List<WeatherList>> groupedWeather = {};
   bool isLoading = true;
 
